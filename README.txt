@@ -1,18 +1,21 @@
 # C-language
 
 
-#include<stdio.h>
+#include<stdio.h> 
 #include<conio.h>
 
 
-void main() {
+int main() {
 
 int;
+char;
+
 printf("");
 scanf("&");
 clrscr;
 getch();
 return 0; 
-(operator = + - * /)
+(operator = + - * / %)
+
 
 }
