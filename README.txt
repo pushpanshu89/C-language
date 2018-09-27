@@ -17,7 +17,7 @@ int main() {
 
 LOCAL VARIABLES 
 
-
+(DATA TYEPS)
 
 int;  - %d
 
@@ -28,10 +28,26 @@ char;   - %c
 float;   - %f
 
 
+void;
+
+
+bool;
+
+
+
 long 
 
 
 double 
+
+
+signed (+-)
+
+
+unsigned 
+
+
+short int
 
 
 put c ()    output function
