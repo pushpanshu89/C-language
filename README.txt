@@ -1,8 +1,10 @@
 # C-language
 HLL (3rd generation) dennis ritchie 
 
-/* (comments in c )       */
+/*multi line (comments in c )       */
 
+
+//single line comment
 
 NAMING RULES :-  no space between two words , no number in 1 char , max 32 characters  
 ex :- _89pushpanshu_kumar89
@@ -56,10 +58,10 @@ put c ()    output function
 get c ()      input function
 
 
-printf("");       output function
+printf("message,%d,%f,%c",variable);       output function
 
 
-scanf("&");      input function
+scanf("%d,%f,%c",&variable declared);      input function
 
 
 clrscr;
@@ -81,7 +83,7 @@ ARTHIMETIC
 BITWISE (& , | , ! , ~)
 
 
-LOGICAL (&& , || , !)
+LOGICAL (&&(and) , ||(or) , !(not))
 
 
 size of ()
@@ -97,6 +99,8 @@ address "&"
 
 
 ASSIGNMENT (+= , -= , *= , /= , %=)
+
+SI=(P*R*T)/100     //program
 
 
 
