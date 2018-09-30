@@ -1,5 +1,6 @@
 # C-language
 HLL (3rd generation) dennis ritchie 
+//for embedded systems
 
 /*multi line (comments in c )       */
 
@@ -72,6 +73,8 @@ getch();
 
 return 0; 
 
+OPERATORS :-
+
 ARTHIMETIC
 (operator = + - * / %)
           ++ increament
@@ -101,7 +104,6 @@ address "&"
 ASSIGNMENT (+= , -= , *= , /= , %=)
 
 SI=(P*R*T)/100     //program
-
-
+D= (b*b - 4*a*c)   //program
 
 }
