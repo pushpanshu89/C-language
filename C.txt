@@ -86,13 +86,13 @@ ARTHIMETIC
 BITWISE (& , | , ! , ~)
 
 
-LOGICAL (&&(and) , ||(or) , !(not))
+LOGICAL (&&(*multiply and) , ||(+ add or) , !(not)) 
 
 
-size of ()
+size of () data types 
 
 
-conoditional  (a?b ; c)
+conoditional  (a?b ; c) //(exp1) ? (exp2);T/F 
 
 
 pointer *
@@ -103,7 +103,9 @@ address "&"
 
 ASSIGNMENT (+= , -= , *= , /= , %=)
 
+
 SI=(P*R*T)/100     //program
 D= (b*b - 4*a*c)   //program
+qudraric euation = ax2 + bx + c //program
 
 }
