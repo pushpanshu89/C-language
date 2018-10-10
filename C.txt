@@ -105,7 +105,21 @@ ASSIGNMENT (+= , -= , *= , /= , %=)
 
 
 SI=(P*R*T)/100     //program
-D= (b*b - 4*a*c)   //program
-qudraric euation = ax2 + bx + c //program
 
+D= (b*b - 4*a*c)   //program 
+
+
+qudraric euation = ax2 + bx + c assign integer values to a,b,c //program
+ANSWER
+int a,b,c,x;  //answer starts from here 
+
+printf("a =");
+scanf("%d",&a);
+printf("b =");                          //solution
+scanf("%d",&b);
+printf("c =");
+scanf("%d",&c);
+printf("%dx2+%dx+%d",a,b,c);
+getch();
+return 0;
 }
